@@ -9,3 +9,8 @@ console.log("saasa");
 console.log(b);
 
 const f = 4;
+function f1(num){
+return console.log(num)
+}
+
+f(1)
